@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ADI PRAYITNO
-image: /img/chemex.jpg
+image: /img/metaverse.jpg
 heading: IT CONSULTANT
 subheading: Blockchain Enthusiast
 mainpitch:
